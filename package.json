@@ -1,0 +1,19 @@
+{
+  "name": "azure-sls-test",
+  "version": "1.0.0",
+  "description": "Azure Functions sample for the Serverless framework",
+  "scripts": {
+    "test": "echo \"No tests yet...\"",
+    "start": "func host start"
+  },
+  "keywords": [
+    "azure",
+    "serverless"
+  ],
+  "dependencies": {
+    "azure-functions-core-tools": "^2.7.1948"
+  },
+  "devDependencies": {
+    "serverless-azure-functions": "^1.0.0"
+  }
+}
